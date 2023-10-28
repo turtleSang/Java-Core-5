@@ -1,0 +1,9 @@
+package testCase;
+
+public class Derived extends Base {
+
+	public Derived() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,20 @@
+001 # Thêm nhân viên # 8f
+002 # Xóa nhân Viên # 6f
+003 # Đăng nhập # 8.5f
+004 # Đăng ký # 9.2f
+005 # Kiểm tra các tài khoản # 10f
+006 # Kiểm tra hợp lệ # 20f
+007 # Biên dịch # 22f
+008 # Test Đăng nhập # 24f
+009 # Test Đăng xuất # 26f
+010 # Giao diện trang chủ # 11f
+011 # Giao diện người dùng # 11.65f
+012 # Giao diện nhân viên # 15.3f
+013 # Phân quyền # 16.4f
+014 # Thêm người dùng # 15.7f
+015 # Xóa người dùng # 16.8f
+016 # Tạo cơ sở dữ liệu # 16.9f
+017 # Test giao diện # 11.4f
+018 # Dan layout # 12.4f
+019 # Test Xóa nhân viên # 23.5f
+020 # Test thêm nhân viên # 26.7f

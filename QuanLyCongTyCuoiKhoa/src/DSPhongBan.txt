@@ -1,0 +1,6 @@
+001 # Phòng nhân sự
+002 # Phòng kế toán
+003 # Phòng lập trình
+004 # Phòng sale
+005 # Phòng Marketing
+006 # Phòng giao dịch

@@ -1,0 +1,20 @@
+package testCase;
+
+import java.util.Iterator;
+
+public class XuLy {
+
+	public static void main(String[] args) {
+		int a[] = {1,2,3,4,1,3,1};
+		int b[] = new int[a.length];
+		System.out.println(b.length);
+		
+		
+	}
+	public static float sum(float m, float n) {
+		System.out.println("m" + m + "n" + n);
+		return m + n;
+	}
+	
+
+}

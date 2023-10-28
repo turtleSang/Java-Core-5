@@ -1,0 +1,18 @@
+package testCase;
+
+public class XuLy {
+
+	public static void main(String[] args) {
+		int i = 0;
+		int j = 0;
+		do {
+			if (++i < j--) {
+				continue;
+			}
+		} while (i<5);
+		System.out.println(i);
+		System.out.println(j);
+
+	}
+
+}

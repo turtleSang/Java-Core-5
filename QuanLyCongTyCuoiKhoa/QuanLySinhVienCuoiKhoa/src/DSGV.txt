@@ -1,0 +1,7 @@
+Minh # 1984 # Can Tho # 123 ABC # 2015 # true
+Nguyen # 1991 # Ha Noi # 456 XCZ # 2016 # false
+Hong # 1987 # TP HCM # 756 ASD # 2020 # true
+Hao # 1988 # Binh Duong # 789 AVB # 2012 # false
+Van # 1961 # An Giang # 123 FLC # 2014 # true
+Hung # 1984 # Ha Tinh # 567 UHB # 2012 # false
+Linh # 1961 # Ninh Binh # 123 FLC # 2014 # true
